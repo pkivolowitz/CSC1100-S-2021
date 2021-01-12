@@ -66,3 +66,9 @@
 ## 4/15/2021
 
 * Review for Final Exam
+
+## Projects
+
+1. Rock Paper Scissors
+2. Dice histogram
+3. Count words with dictionary
