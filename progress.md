@@ -17,6 +17,16 @@ Today was a good day - thank you!
 
 * Review
 * Create first program
+   * Creating the file the program will go in
+   * `input()` Zybooks chapter 1.3
+   * `int()` also Zybooks 1.3
+   * `print()` first pass - also Zybooks chapter 1.3
+      * with a new line and without a new line
+	  * multiple items in one print
+   * `print()` second pass including string formatting from Zybooks chapter 3.8
+   * `if` Zybooks chapter 4.1, 4.2, 4.3.
+      * `if / else` 
+      * `if / elif / else`
 
 ## 1/19/2021
 
