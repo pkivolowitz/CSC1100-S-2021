@@ -11,7 +11,12 @@
 * variables
 * types
 
+Today was a good day - thank you!
+
 ## 1/14/2021
+
+* Review
+* Create first program
 
 ## 1/19/2021
 
