@@ -15,37 +15,3 @@ You will find your reading assignments on Schoology.
 ### Projects
 
 You will find specifications for projects here on Github.
-
-## Importing a `repo` into repl.it
-
-Along the top of repl.it web site you'll see a blue plus sign. Click this to add a new repl. Clicking on this will bring up a dialog with two tabs. 
-
-The right hand tab is labeled `Import from Github`. Click on this.
-
-Paste the following:
-
-```text
-https://github.com/pkivolowitz/CSC1100-S-2021
-```
-
-Click `Import`.
-
-After the `repo` imports the settings should be visible. For `select language` erase the text that is there and enter `Python`. Make sure you do **not** select `Python 2.7`. 
-
-Click `Done`.
-
-## Updating the `repo`
-
-From time-to-time you will need update the `repo`. This is known as a `pull`. When the repl is selected, the second icon on the left looks like some nodes connected in a graph. 
-
-Click this. The word `pull` should become visible. Click this. Your repl should update.
-
-Other than this - stay away from this tool.
-
-## Use the project directories
-
-There is a directory for each project. You can create your work in these directories.
-
-## Installing new `packages`
-
-This will be covered when it becomes necessary.
