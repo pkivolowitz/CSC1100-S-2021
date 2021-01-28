@@ -42,6 +42,12 @@ Today was a good day - thank you!
 
 ## 1/26/2021
 
+* Review
+* Tuples
+* __doc__
+* DnD Character Generator
+* String formatting
+
 ## 1/28/2021
 
 ## 2/2/2021
