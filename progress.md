@@ -30,9 +30,23 @@ Today was a good day - thank you!
 
 ## 1/19/2021
 
+* Review
+* In-depth review of `if`
+* Ages program
+* Work on project 1
+
 ## 1/21/2021
 
+* Review
+* Lists in detail
+
 ## 1/26/2021
+
+* Review
+* Tuples
+* __doc__
+* DnD Character Generator
+* String formatting
 
 ## 1/28/2021
 
