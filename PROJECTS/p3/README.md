@@ -15,7 +15,7 @@ This project will give you practice using:
 
 ## The file
 
-You are given `words.txt`. This file contains the text of Frankstein where each word is given on a line by itself. Here are the first few lines:
+You are given `words.txt` (see bottom). This file contains the text of Frankstein where each word is given on a line by itself. Here are the first few lines:
 
 ```text
 Frankenstein
@@ -190,3 +190,9 @@ All work is to be done solo.
 ## What to hand in
 
 Submit to Schoology just your Python source code.
+
+## How to get the words file
+
+Download this [file](https://www.mediafire.com/file/ked9yzo2rfkp25h/words.txt).
+
+Then upload it to your repl using "Files..." then the vertical 3 dots then "Upload file"
