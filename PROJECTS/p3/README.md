@@ -193,6 +193,6 @@ Submit to Schoology just your Python source code.
 
 ## How to get the words file
 
-Download this [file](https://www.mediafire.com/file/ked9yzo2rfkp25h/words.txt).
+Download this [file](https://www.mediafire.com/file/rzsqeqc3conxgni/shelly.txt).
 
 Then upload it to your repl using "Files..." then the vertical 3 dots then "Upload file"
