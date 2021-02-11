@@ -50,11 +50,29 @@ Today was a good day - thank you!
 
 ## 1/28/2021
 
+* Review
+* Book questions
+* Project questions
+
 ## 2/2/2021
+
+* Review
+* Book questions
+* Project questions
 
 ## 2/4/2021
 
+* Review
+* Book questions
+* Project questions
+
 ## 2/9/2021
+
+* Review
+* Book questions
+* Project questions
+* `with` for opening files
+* `csv` package
 
 ## 2/11/2021
 
