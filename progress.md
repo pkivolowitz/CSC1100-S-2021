@@ -85,7 +85,11 @@ Today was a good day - thank you!
 
 ## 2/18/2021
 
+Today is the midterm review day.
+
 ## 2/23/2021
+
+Today is the midterm.
 
 ## 2/25/2021
 
