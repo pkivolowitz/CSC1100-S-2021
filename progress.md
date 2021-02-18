@@ -78,6 +78,11 @@ Today was a good day - thank you!
 
 ## 2/16/2021
 
+* Review
+* Book questions
+* argv
+* We did most of a flashcard application
+
 ## 2/18/2021
 
 ## 2/23/2021
